@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: aa0f382703cf1294fb33e1bb2e25ccdf
+timeCreated: 1456240753
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: blue glass
+    100002: blue glow
+    100004: default#1
+    100006: grey dark
+    100008: IS body b
+    100010: IS body f
+    100012: IS body l
+    100014: IS body o
+    100016: IS body r
+    100018: IS body t
+    100020: is cockpi1
+    100022: is cockpi2
+    100024: is cockpit
+    100026: Light
+    100028: lightwave
+    100030: lightwave.target
+    100032: metal refl
+    100034: //RootNode
+    100036: shuttle bl
+    100038: shuttle br
+    100040: shuttle in
+    100042: shuttle la
+    100044: shuttle s1
+    100046: shuttle st
+    100048: shuttle wh
+    100050: shuttle wi
+    100052: tyderium
+    100054: tyderium (
+    400000: blue glass
+    400002: blue glow
+    400004: default#1
+    400006: grey dark
+    400008: IS body b
+    400010: IS body f
+    400012: IS body l
+    400014: IS body o
+    400016: IS body r
+    400018: IS body t
+    400020: is cockpi1
+    400022: is cockpi2
+    400024: is cockpit
+    400026: Light
+    400028: lightwave
+    400030: lightwave.target
+    400032: metal refl
+    400034: //RootNode
+    400036: shuttle bl
+    400038: shuttle br
+    400040: shuttle in
+    400042: shuttle la
+    400044: shuttle s1
+    400046: shuttle st
+    400048: shuttle wh
+    400050: shuttle wi
+    400052: tyderium
+    400054: tyderium (
+    2300000: blue glass
+    2300002: blue glow
+    2300004: default#1
+    2300006: grey dark
+    2300008: IS body b
+    2300010: IS body f
+    2300012: IS body l
+    2300014: IS body o
+    2300016: IS body r
+    2300018: IS body t
+    2300020: is cockpi1
+    2300022: is cockpi2
+    2300024: is cockpit
+    2300026: metal refl
+    2300028: shuttle bl
+    2300030: shuttle br
+    2300032: shuttle in
+    2300034: shuttle la
+    2300036: shuttle s1
+    2300038: shuttle st
+    2300040: shuttle wh
+    2300042: shuttle wi
+    3300000: blue glass
+    3300002: blue glow
+    3300004: default#1
+    3300006: grey dark
+    3300008: IS body b
+    3300010: IS body f
+    3300012: IS body l
+    3300014: IS body o
+    3300016: IS body r
+    3300018: IS body t
+    3300020: is cockpi1
+    3300022: is cockpi2
+    3300024: is cockpit
+    3300026: metal refl
+    3300028: shuttle bl
+    3300030: shuttle br
+    3300032: shuttle in
+    3300034: shuttle la
+    3300036: shuttle s1
+    3300038: shuttle st
+    3300040: shuttle wh
+    3300042: shuttle wi
+    4300000: IS body b
+    4300002: IS body f
+    4300004: IS body l
+    4300006: IS body o
+    4300008: IS body r
+    4300010: IS body t
+    4300012: blue glass
+    4300014: blue glow
+    4300016: default#1
+    4300018: grey dark
+    4300020: is cockpit
+    4300022: is cockpi1
+    4300024: is cockpi2
+    4300026: metal refl
+    4300028: shuttle bl
+    4300030: shuttle br
+    4300032: shuttle in
+    4300034: shuttle la
+    4300036: shuttle st
+    4300038: shuttle s1
+    4300040: shuttle wh
+    4300042: shuttle wi
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

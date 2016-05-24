@@ -1,0 +1,49 @@
+General Copyright Notice:
+
+Please note,  the meshes contained with this file is Public Domain and was posted with authors permission.
+
+The only use for the meshes allowed by the Wolfpak is Personal Use.  This means that you can use them for
+personal entertainment (making Star Trek pictures to post on the web,  adding effects and making animations for
+personal entertainment purposes).  They must not be used for commercial purposes in any way. 
+Without the authors and trade mark holders permission, this means you can't post them on a pay-access FTP/WWW site
+nor add them on a CD-ROM collection or use them to sell products or services in anyway.
+
+These meshes should never appear on a CD-ROM and are available only from the Wolfpak Web site at:
+
+http://www.wolfpak359.co.uk
+
+If you have had to pay money to buy these meshes on CD-ROM or download them from a BBS Please contact the below
+e-mail so that we can make sure people can get these meshes free and not have to pay pirate software copiers for
+illegal CD-ROM's of PD meshes.
+
+If in doubt please contact:
+
+copyright@wolfpak359.co.uk
+
+
+When uploading a picture to the Internet we ask that you credit the author of the mesh there names are below in this file.
+below its download link picture) in any work you post on the web,  stating were you got the mesh if possible and
+This way the people who did the hard work of actually building the mesh your playing around with gets
+the credit they deserve.
+
+
+The Wolfpak post these meshes with out any liabilities for their use and give no warranty for their use.  I.e. use
+them at your own risk.  We do check all the files for virus's and try to make sure they will work on a default 3D
+Studio setup.  If you load them on a non-3D studio rendering package proceed with care some packages will not be
+able to handle the more complex files we have placed here.
+
+For more help see the wolfpaks Mesh Help page:
+
+http://www.wolfpak359.co.uk
+
+-------------------------------------------------------------------------------------------------------------------
+X-wing mesh, Detailed model by Harry H. Chang. Basic Textures added by Jose Gonzalez. Rebel Pilot by Matt Walton.
+Detailed Texture Mapps and extra 3D Detail and lighting by Matt Allen of the Wolfpak.
+
+                                       1557k ZIP Mesh and Texture mapps
+
+This file is copyright of the above authors and they must be given written credit if you post pictures you make
+with this file onto the internet.
+------------------------------------------------------------------------------------------------------------------
+
+

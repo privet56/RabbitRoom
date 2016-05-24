@@ -1,0 +1,29 @@
+---------------------------------------------------------------
+          Sienar Fleet Systems/ Cygnus Spaceworks 
+               Sentinel-Class Landing Craft
+---------------------------------------------------------------
+
+Original mesh format:    Lightwave 3D 5.6
+Created and Textured By: Tom Grays 
+E-mail: 		 tomgrays@molly.vabo.cz
+From: 			 TGCG SYSTEMS
+website:		 http://4.18.133.121/tgcgs/
+
+Based on book The Essential Guide to Vehicles and Vessels
+
+-----------------Strictly not commercial-----------------------
+  
+If you will publish pictures with this model
+Please, include my name in titles.
+
+---------------------------------------------------------------
+This mesh in 3DS format is placed in archives of SWMA.
+Star Wars Modeling Alliance.
+http://www.surfthe.net/swma/
+Conversion By: George "Zoo" Mezori
+of SCIFI 3D.  www.theforce.net/scifi3d/
+---------------------------------------------------------------
+
+Copyright by Tom Grays and TGCG SYSTEMS c 1999
+STAR WARS is trademark of LucasFilm Ltd. c 1999
+All rights reserved ....  

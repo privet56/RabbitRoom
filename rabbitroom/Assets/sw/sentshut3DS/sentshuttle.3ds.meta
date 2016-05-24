@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 479eca6709b6c634ba07e9cc09e2c8e8
+timeCreated: 1456240716
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Engine
+    100002: Glass
+    100004: Glass1
+    100006: Head Back
+    100008: Head Down
+    100010: Head Hull
+    100012: Head Landi
+    100014: Head Parts
+    100016: Head Side
+    100018: Head Up
+    100020: Head Up Bl
+    100022: Light
+    100024: lightwave
+    100026: lightwave.target
+    100028: Main Hull
+    100030: Main Hull1
+    100032: Main Hull2
+    100034: Main Hull3
+    100036: Main Hull4
+    100038: Main Hull5
+    100040: Main Hull6
+    100042: Main Stabi
+    100044: Main Wing
+    100046: Position
+    100048: 'Position #'
+    100050: Position 1
+    100052: sentinel 1
+    100054: sentinel 2
+    100056: sentinel b
+    100058: sentinel h
+    100060: sentinel w
+    100062: //RootNode
+    400000: Engine
+    400002: Glass
+    400004: Glass1
+    400006: Head Back
+    400008: Head Down
+    400010: Head Hull
+    400012: Head Landi
+    400014: Head Parts
+    400016: Head Side
+    400018: Head Up
+    400020: Head Up Bl
+    400022: Light
+    400024: lightwave
+    400026: lightwave.target
+    400028: Main Hull
+    400030: Main Hull1
+    400032: Main Hull2
+    400034: Main Hull3
+    400036: Main Hull4
+    400038: Main Hull5
+    400040: Main Hull6
+    400042: Main Stabi
+    400044: Main Wing
+    400046: Position
+    400048: 'Position #'
+    400050: Position 1
+    400052: sentinel 1
+    400054: sentinel 2
+    400056: sentinel b
+    400058: sentinel h
+    400060: sentinel w
+    400062: //RootNode
+    2300000: Engine
+    2300002: Glass
+    2300004: Glass1
+    2300006: Head Back
+    2300008: Head Down
+    2300010: Head Hull
+    2300012: Head Landi
+    2300014: Head Parts
+    2300016: Head Side
+    2300018: Head Up
+    2300020: Head Up Bl
+    2300022: Main Hull
+    2300024: Main Hull1
+    2300026: Main Hull2
+    2300028: Main Hull3
+    2300030: Main Hull4
+    2300032: Main Hull5
+    2300034: Main Hull6
+    2300036: Main Stabi
+    2300038: Main Wing
+    2300040: sentinel 1
+    2300042: sentinel w
+    3300000: Engine
+    3300002: Glass
+    3300004: Glass1
+    3300006: Head Back
+    3300008: Head Down
+    3300010: Head Hull
+    3300012: Head Landi
+    3300014: Head Parts
+    3300016: Head Side
+    3300018: Head Up
+    3300020: Head Up Bl
+    3300022: Main Hull
+    3300024: Main Hull1
+    3300026: Main Hull2
+    3300028: Main Hull3
+    3300030: Main Hull4
+    3300032: Main Hull5
+    3300034: Main Hull6
+    3300036: Main Stabi
+    3300038: Main Wing
+    3300040: sentinel 1
+    3300042: sentinel w
+    4300000: sentinel w
+    4300002: sentinel 1
+    4300004: Engine
+    4300006: Glass
+    4300008: Glass1
+    4300010: Head Back
+    4300012: Head Down
+    4300014: Head Hull
+    4300016: Head Landi
+    4300018: Head Parts
+    4300020: Head Side
+    4300022: Head Up
+    4300024: Head Up Bl
+    4300026: Main Hull
+    4300028: Main Hull1
+    4300030: Main Hull2
+    4300032: Main Hull3
+    4300034: Main Hull4
+    4300036: Main Hull5
+    4300038: Main Hull6
+    4300040: Main Stabi
+    4300042: Main Wing
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

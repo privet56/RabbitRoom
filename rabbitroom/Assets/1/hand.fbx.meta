@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: be2b3e2911c70584a8771c3f48c042a4
+timeCreated: 1455210866
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Antebrazo
+    100002: Bone
+    100004: Bone.000
+    100006: Cerrar y Abrir
+    100008: Controlador
+    100010: Controlador Muneca
+    100012: Controlador.000
+    100014: Controlador.000_end
+    100016: Controlador.001
+    100018: Controlador.001_end
+    100020: Controlador.002
+    100022: Controlador.002_end
+    100024: Controlador.003
+    100026: Controlador.003_end
+    100028: Controlador1
+    100030: Controlador2
+    100032: Controlador3
+    100034: Controlador4
+    100036: Controlador5
+    100038: Controlador_end
+    100040: dedo1
+    100042: dedo1,1
+    100044: dedo1,2
+    100046: dedo1,3
+    100048: dedo1,4
+    100050: dedo1,5
+    100052: dedo1.000
+    100054: dedo1.001
+    100056: dedo1.002
+    100058: dedo1.003
+    100060: dedo1.004
+    100062: dedo1.005
+    100064: dedo1.006
+    100066: dedo1.007
+    100068: dedo1.008
+    100070: dedo1.009
+    100072: dedo1.010
+    100074: dedo1.010_end
+    100076: dedo2
+    100078: dedo2,1
+    100080: dedo2,2
+    100082: dedo2,3
+    100084: dedo2,4
+    100086: dedo2,5
+    100088: dedo2.000
+    100090: dedo2.001
+    100092: dedo2.002
+    100094: dedo2.003
+    100096: dedo3
+    100098: dedo3,1
+    100100: dedo3,2
+    100102: dedo3,3
+    100104: dedo3,4
+    100106: dedo3,5
+    100108: dedo3.000
+    100110: dedo3.000_end
+    100112: dedo3.001
+    100114: dedo3.001_end
+    100116: dedo3.002
+    100118: dedo3.002_end
+    100120: dedo3.003
+    100122: dedo3.003_end
+    100124: dedo3_end
+    100126: //RootNode
+    100128: Hueso Muneca 1
+    100130: Hueso Muneca 2
+    100132: Hueso Muneca 3
+    100134: Hueso Muneca 4
+    100136: Hueso Muneca 5
+    100138: Huesos Mano
+    100140: Lados Muneca
+    100142: Mano
+    100144: Muneca Lados
+    100146: Muneca Lados_end
+    100148: unir separar
+    400000: Antebrazo
+    400002: Bone
+    400004: Bone.000
+    400006: Cerrar y Abrir
+    400008: Controlador
+    400010: Controlador Muneca
+    400012: Controlador.000
+    400014: Controlador.000_end
+    400016: Controlador.001
+    400018: Controlador.001_end
+    400020: Controlador.002
+    400022: Controlador.002_end
+    400024: Controlador.003
+    400026: Controlador.003_end
+    400028: Controlador1
+    400030: Controlador2
+    400032: Controlador3
+    400034: Controlador4
+    400036: Controlador5
+    400038: Controlador_end
+    400040: dedo1
+    400042: dedo1,1
+    400044: dedo1,2
+    400046: dedo1,3
+    400048: dedo1,4
+    400050: dedo1,5
+    400052: dedo1.000
+    400054: dedo1.001
+    400056: dedo1.002
+    400058: dedo1.003
+    400060: dedo1.004
+    400062: dedo1.005
+    400064: dedo1.006
+    400066: dedo1.007
+    400068: dedo1.008
+    400070: dedo1.009
+    400072: dedo1.010
+    400074: dedo1.010_end
+    400076: dedo2
+    400078: dedo2,1
+    400080: dedo2,2
+    400082: dedo2,3
+    400084: dedo2,4
+    400086: dedo2,5
+    400088: dedo2.000
+    400090: dedo2.001
+    400092: dedo2.002
+    400094: dedo2.003
+    400096: dedo3
+    400098: dedo3,1
+    400100: dedo3,2
+    400102: dedo3,3
+    400104: dedo3,4
+    400106: dedo3,5
+    400108: dedo3.000
+    400110: dedo3.000_end
+    400112: dedo3.001
+    400114: dedo3.001_end
+    400116: dedo3.002
+    400118: dedo3.002_end
+    400120: dedo3.003
+    400122: dedo3.003_end
+    400124: dedo3_end
+    400126: //RootNode
+    400128: Hueso Muneca 1
+    400130: Hueso Muneca 2
+    400132: Hueso Muneca 3
+    400134: Hueso Muneca 4
+    400136: Hueso Muneca 5
+    400138: Huesos Mano
+    400140: Lados Muneca
+    400142: Mano
+    400144: Muneca Lados
+    400146: Muneca Lados_end
+    400148: unir separar
+    2300000: Antebrazo
+    2300002: Cerrar y Abrir
+    2300004: Controlador Muneca
+    2300006: Controlador1
+    2300008: Controlador2
+    2300010: Controlador3
+    2300012: Controlador4
+    2300014: Controlador5
+    2300016: dedo1,1
+    2300018: dedo1,2
+    2300020: dedo1,3
+    2300022: dedo1,4
+    2300024: dedo1,5
+    2300026: dedo2,1
+    2300028: dedo2,2
+    2300030: dedo2,3
+    2300032: dedo2,4
+    2300034: dedo2,5
+    2300036: dedo3,1
+    2300038: dedo3,2
+    2300040: dedo3,3
+    2300042: dedo3,4
+    2300044: dedo3,5
+    2300046: Hueso Muneca 1
+    2300048: Hueso Muneca 2
+    2300050: Hueso Muneca 3
+    2300052: Hueso Muneca 4
+    2300054: Hueso Muneca 5
+    2300056: Lados Muneca
+    2300058: unir separar
+    3300000: Antebrazo
+    3300002: Cerrar y Abrir
+    3300004: Controlador Muneca
+    3300006: Controlador1
+    3300008: Controlador2
+    3300010: Controlador3
+    3300012: Controlador4
+    3300014: Controlador5
+    3300016: dedo1,1
+    3300018: dedo1,2
+    3300020: dedo1,3
+    3300022: dedo1,4
+    3300024: dedo1,5
+    3300026: dedo2,1
+    3300028: dedo2,2
+    3300030: dedo2,3
+    3300032: dedo2,4
+    3300034: dedo2,5
+    3300036: dedo3,1
+    3300038: dedo3,2
+    3300040: dedo3,3
+    3300042: dedo3,4
+    3300044: dedo3,5
+    3300046: Hueso Muneca 1
+    3300048: Hueso Muneca 2
+    3300050: Hueso Muneca 3
+    3300052: Hueso Muneca 4
+    3300054: Hueso Muneca 5
+    3300056: Lados Muneca
+    3300058: unir separar
+    4300000: Hueso Muneca 5
+    4300002: Hueso Muneca 4
+    4300004: Hueso Muneca 3
+    4300006: Hueso Muneca 2
+    4300008: Hueso Muneca 1
+    4300010: Lados Muneca
+    4300012: unir separar
+    4300014: Cerrar y Abrir
+    4300016: Antebrazo
+    4300018: Controlador Muneca
+    4300020: dedo3,5
+    4300022: dedo3,4
+    4300024: dedo3,3
+    4300026: dedo3,2
+    4300028: dedo3,1
+    4300030: dedo2,1
+    4300032: dedo2,2
+    4300034: dedo2,3
+    4300036: dedo2,4
+    4300038: dedo2,5
+    4300040: dedo1,5
+    4300042: dedo1,4
+    4300044: dedo1,3
+    4300046: dedo1,2
+    4300048: dedo1,1
+    4300050: Controlador5
+    4300052: Controlador4
+    4300054: Controlador3
+    4300056: Controlador2
+    4300058: Controlador1
+    4300060: Mano
+    7400000: Huesos Mano|Huesos ManoAction
+    9500000: //RootNode
+    13700000: Mano
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

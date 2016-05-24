@@ -1,0 +1,373 @@
+fileFormatVersion: 2
+guid: d28be1c5d06f8184097b43c9b22af5cd
+timeCreated: 1456240759
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: falcon
+    100002: Light
+    100004: lightwave
+    100006: lightwave.target
+    100008: mf (from s
+    100010: mf bay l
+    100012: mf bay r
+    100014: mf CabBac1
+    100016: mf CabBack
+    100018: mf Cabin
+    100020: mf CabinRi
+    100022: mf Cargo l
+    100024: mf Cargo1
+    100026: mf centra1
+    100028: mf centra2
+    100030: mf centra3
+    100032: mf Central
+    100034: mf central
+    100036: mf Chairs
+    100038: mf cockpi
+    100040: mf cockpi1
+    100042: mf cockpi2
+    100044: mf cockpi3
+    100046: mf cockpit
+    100048: mf Cocpit1
+    100050: mf Cocpit2
+    100052: mf CocpitB
+    100054: mf CocpitF
+    100056: mf CocpitG
+    100058: mf CocpitS
+    100060: mf CocpitT
+    100062: mf cross b
+    100064: mf crossb1
+    100066: mf crossb2
+    100068: mf crossbe
+    100070: mf DarkGra
+    100072: mf dish fa
+    100074: mf dish mo
+    100076: mf endcap
+    100078: mf engine
+    100080: mf EngineG
+    100082: mf floor 2
+    100084: mf ForeCar
+    100086: mf GrayMat
+    100088: mf GunBod1
+    100090: mf GunBody
+    100092: mf GunTube
+    100094: mf LightGr
+    100096: mf main bo
+    100098: mf Nose
+    100100: mf nose e-
+    100102: mf nose ed
+    100104: mf nose li
+    100106: mf nose pi
+    100108: mf nose si
+    100110: mf NoseFor
+    100112: mf NoseOut
+    100114: mf ST-END
+    100116: mf TechStu
+    100118: mf tunnel
+    100120: mf turret
+    100122: mf turret1
+    100124: mf turret2
+    100126: //RootNode
+    400000: falcon
+    400002: Light
+    400004: lightwave
+    400006: lightwave.target
+    400008: mf (from s
+    400010: mf bay l
+    400012: mf bay r
+    400014: mf CabBac1
+    400016: mf CabBack
+    400018: mf Cabin
+    400020: mf CabinRi
+    400022: mf Cargo l
+    400024: mf Cargo1
+    400026: mf centra1
+    400028: mf centra2
+    400030: mf centra3
+    400032: mf Central
+    400034: mf central
+    400036: mf Chairs
+    400038: mf cockpi
+    400040: mf cockpi1
+    400042: mf cockpi2
+    400044: mf cockpi3
+    400046: mf cockpit
+    400048: mf Cocpit1
+    400050: mf Cocpit2
+    400052: mf CocpitB
+    400054: mf CocpitF
+    400056: mf CocpitG
+    400058: mf CocpitS
+    400060: mf CocpitT
+    400062: mf cross b
+    400064: mf crossb1
+    400066: mf crossb2
+    400068: mf crossbe
+    400070: mf DarkGra
+    400072: mf dish fa
+    400074: mf dish mo
+    400076: mf endcap
+    400078: mf engine
+    400080: mf EngineG
+    400082: mf floor 2
+    400084: mf ForeCar
+    400086: mf GrayMat
+    400088: mf GunBod1
+    400090: mf GunBody
+    400092: mf GunTube
+    400094: mf LightGr
+    400096: mf main bo
+    400098: mf Nose
+    400100: mf nose e-
+    400102: mf nose ed
+    400104: mf nose li
+    400106: mf nose pi
+    400108: mf nose si
+    400110: mf NoseFor
+    400112: mf NoseOut
+    400114: mf ST-END
+    400116: mf TechStu
+    400118: mf tunnel
+    400120: mf turret
+    400122: mf turret1
+    400124: mf turret2
+    400126: //RootNode
+    2300000: mf bay l
+    2300002: mf bay r
+    2300004: mf CabBac1
+    2300006: mf CabBack
+    2300008: mf Cabin
+    2300010: mf CabinRi
+    2300012: mf Cargo l
+    2300014: mf Cargo1
+    2300016: mf centra1
+    2300018: mf centra2
+    2300020: mf centra3
+    2300022: mf Central
+    2300024: mf central
+    2300026: mf Chairs
+    2300028: mf cockpi
+    2300030: mf cockpi1
+    2300032: mf cockpi2
+    2300034: mf cockpi3
+    2300036: mf cockpit
+    2300038: mf Cocpit1
+    2300040: mf Cocpit2
+    2300042: mf CocpitB
+    2300044: mf CocpitF
+    2300046: mf CocpitG
+    2300048: mf CocpitS
+    2300050: mf CocpitT
+    2300052: mf cross b
+    2300054: mf crossb1
+    2300056: mf crossb2
+    2300058: mf crossbe
+    2300060: mf DarkGra
+    2300062: mf dish fa
+    2300064: mf dish mo
+    2300066: mf endcap
+    2300068: mf engine
+    2300070: mf EngineG
+    2300072: mf floor 2
+    2300074: mf ForeCar
+    2300076: mf GrayMat
+    2300078: mf GunBod1
+    2300080: mf GunBody
+    2300082: mf GunTube
+    2300084: mf LightGr
+    2300086: mf main bo
+    2300088: mf Nose
+    2300090: mf nose e-
+    2300092: mf nose ed
+    2300094: mf nose li
+    2300096: mf nose pi
+    2300098: mf nose si
+    2300100: mf NoseFor
+    2300102: mf NoseOut
+    2300104: mf ST-END
+    2300106: mf TechStu
+    2300108: mf tunnel
+    2300110: mf turret
+    2300112: mf turret1
+    2300114: mf turret2
+    3300000: mf bay l
+    3300002: mf bay r
+    3300004: mf CabBac1
+    3300006: mf CabBack
+    3300008: mf Cabin
+    3300010: mf CabinRi
+    3300012: mf Cargo l
+    3300014: mf Cargo1
+    3300016: mf centra1
+    3300018: mf centra2
+    3300020: mf centra3
+    3300022: mf Central
+    3300024: mf central
+    3300026: mf Chairs
+    3300028: mf cockpi
+    3300030: mf cockpi1
+    3300032: mf cockpi2
+    3300034: mf cockpi3
+    3300036: mf cockpit
+    3300038: mf Cocpit1
+    3300040: mf Cocpit2
+    3300042: mf CocpitB
+    3300044: mf CocpitF
+    3300046: mf CocpitG
+    3300048: mf CocpitS
+    3300050: mf CocpitT
+    3300052: mf cross b
+    3300054: mf crossb1
+    3300056: mf crossb2
+    3300058: mf crossbe
+    3300060: mf DarkGra
+    3300062: mf dish fa
+    3300064: mf dish mo
+    3300066: mf endcap
+    3300068: mf engine
+    3300070: mf EngineG
+    3300072: mf floor 2
+    3300074: mf ForeCar
+    3300076: mf GrayMat
+    3300078: mf GunBod1
+    3300080: mf GunBody
+    3300082: mf GunTube
+    3300084: mf LightGr
+    3300086: mf main bo
+    3300088: mf Nose
+    3300090: mf nose e-
+    3300092: mf nose ed
+    3300094: mf nose li
+    3300096: mf nose pi
+    3300098: mf nose si
+    3300100: mf NoseFor
+    3300102: mf NoseOut
+    3300104: mf ST-END
+    3300106: mf TechStu
+    3300108: mf tunnel
+    3300110: mf turret
+    3300112: mf turret1
+    3300114: mf turret2
+    4300000: mf CabBack
+    4300002: mf CabBac1
+    4300004: mf Cabin
+    4300006: mf CabinRi
+    4300008: mf Cargo l
+    4300010: mf Cargo1
+    4300012: mf Central
+    4300014: mf Chairs
+    4300016: mf CocpitB
+    4300018: mf Cocpit1
+    4300020: mf Cocpit2
+    4300022: mf CocpitF
+    4300024: mf CocpitG
+    4300026: mf CocpitS
+    4300028: mf CocpitT
+    4300030: mf DarkGra
+    4300032: mf EngineG
+    4300034: mf ForeCar
+    4300036: mf GrayMat
+    4300038: mf GunBody
+    4300040: mf GunBod1
+    4300042: mf GunTube
+    4300044: mf LightGr
+    4300046: mf Nose
+    4300048: mf NoseFor
+    4300050: mf NoseOut
+    4300052: mf ST-END
+    4300054: mf TechStu
+    4300056: mf bay l
+    4300058: mf bay r
+    4300060: mf central
+    4300062: mf centra1
+    4300064: mf centra2
+    4300066: mf centra3
+    4300068: mf cockpi
+    4300070: mf cockpit
+    4300072: mf cockpi1
+    4300074: mf cockpi2
+    4300076: mf cockpi3
+    4300078: mf cross b
+    4300080: mf crossbe
+    4300082: mf crossb1
+    4300084: mf crossb2
+    4300086: mf dish fa
+    4300088: mf dish mo
+    4300090: mf endcap
+    4300092: mf engine
+    4300094: mf floor 2
+    4300096: mf main bo
+    4300098: mf nose e-
+    4300100: mf nose ed
+    4300102: mf nose li
+    4300104: mf nose pi
+    4300106: mf nose si
+    4300108: mf tunnel
+    4300110: mf turret
+    4300112: mf turret1
+    4300114: mf turret2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

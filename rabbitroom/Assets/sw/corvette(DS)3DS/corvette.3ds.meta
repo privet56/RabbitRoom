@@ -1,0 +1,438 @@
+fileFormatVersion: 2
+guid: 73c3f363624c8cd49bc243c73ce1a09b
+timeCreated: 1456240725
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BR  engi10
+    100002: BR  engin1
+    100004: BR  engin2
+    100006: BR  engin3
+    100008: BR  engin4
+    100010: BR  engin5
+    100012: BR  engin6
+    100014: BR  engin7
+    100016: BR  engin8
+    100018: BR  engin9
+    100020: BR  engine
+    100022: BR  exhaus
+    100024: BR  gun b1
+    100026: BR  gun b2
+    100028: BR  gun ba
+    100030: BR  gun bl
+    100032: BR  gun de
+    100034: BR  gun m1
+    100036: BR  gun mo
+    100038: BR  gun tu
+    100040: BR  hull 1
+    100042: BR  hull 2
+    100044: BR  hull 3
+    100046: BR  hull 4
+    100048: BR  hull d
+    100050: BR  hull f
+    100052: BR  hull p
+    100054: BR  hull t
+    100056: BR  radar
+    100058: BR  radar1
+    100060: BR  radar2
+    100062: BR  radar3
+    100064: BR  radar4
+    100066: BR  spine
+    100068: BR  spine1
+    100070: BR  spine2
+    100072: BR  spine3
+    100074: BR  spine4
+    100076: BR access
+    100078: BR access1
+    100080: BR access2
+    100082: BR bridge
+    100084: BR bridge1
+    100086: BR bridge2
+    100088: BR bridge3
+    100090: BR bridge4
+    100092: BR bridge5
+    100094: BR bridge6
+    100096: BR engin10
+    100098: BR engin11
+    100100: BR engin12
+    100102: BR engin13
+    100104: BR engin14
+    100106: BR engin15
+    100108: BR engin16
+    100110: BR engin17
+    100112: BR engine
+    100114: BR engine1
+    100116: BR engine2
+    100118: BR engine3
+    100120: BR engine4
+    100122: BR engine5
+    100124: BR engine6
+    100126: BR engine7
+    100128: BR engine8
+    100130: BR engine9
+    100132: BR escape
+    100134: BR main bo
+    100136: BR side h1
+    100138: BR side h2
+    100140: BR side h3
+    100142: BR side h4
+    100144: BR side ha
+    100146: //RootNode
+    400000: BR  engi10
+    400002: BR  engin1
+    400004: BR  engin2
+    400006: BR  engin3
+    400008: BR  engin4
+    400010: BR  engin5
+    400012: BR  engin6
+    400014: BR  engin7
+    400016: BR  engin8
+    400018: BR  engin9
+    400020: BR  engine
+    400022: BR  exhaus
+    400024: BR  gun b1
+    400026: BR  gun b2
+    400028: BR  gun ba
+    400030: BR  gun bl
+    400032: BR  gun de
+    400034: BR  gun m1
+    400036: BR  gun mo
+    400038: BR  gun tu
+    400040: BR  hull 1
+    400042: BR  hull 2
+    400044: BR  hull 3
+    400046: BR  hull 4
+    400048: BR  hull d
+    400050: BR  hull f
+    400052: BR  hull p
+    400054: BR  hull t
+    400056: BR  radar
+    400058: BR  radar1
+    400060: BR  radar2
+    400062: BR  radar3
+    400064: BR  radar4
+    400066: BR  spine
+    400068: BR  spine1
+    400070: BR  spine2
+    400072: BR  spine3
+    400074: BR  spine4
+    400076: BR access
+    400078: BR access1
+    400080: BR access2
+    400082: BR bridge
+    400084: BR bridge1
+    400086: BR bridge2
+    400088: BR bridge3
+    400090: BR bridge4
+    400092: BR bridge5
+    400094: BR bridge6
+    400096: BR engin10
+    400098: BR engin11
+    400100: BR engin12
+    400102: BR engin13
+    400104: BR engin14
+    400106: BR engin15
+    400108: BR engin16
+    400110: BR engin17
+    400112: BR engine
+    400114: BR engine1
+    400116: BR engine2
+    400118: BR engine3
+    400120: BR engine4
+    400122: BR engine5
+    400124: BR engine6
+    400126: BR engine7
+    400128: BR engine8
+    400130: BR engine9
+    400132: BR escape
+    400134: BR main bo
+    400136: BR side h1
+    400138: BR side h2
+    400140: BR side h3
+    400142: BR side h4
+    400144: BR side ha
+    400146: //RootNode
+    2300000: BR  engi10
+    2300002: BR  engin1
+    2300004: BR  engin2
+    2300006: BR  engin3
+    2300008: BR  engin4
+    2300010: BR  engin5
+    2300012: BR  engin6
+    2300014: BR  engin7
+    2300016: BR  engin8
+    2300018: BR  engin9
+    2300020: BR  engine
+    2300022: BR  exhaus
+    2300024: BR  gun b1
+    2300026: BR  gun b2
+    2300028: BR  gun ba
+    2300030: BR  gun bl
+    2300032: BR  gun de
+    2300034: BR  gun m1
+    2300036: BR  gun mo
+    2300038: BR  gun tu
+    2300040: BR  hull 1
+    2300042: BR  hull 2
+    2300044: BR  hull 3
+    2300046: BR  hull 4
+    2300048: BR  hull d
+    2300050: BR  hull f
+    2300052: BR  hull p
+    2300054: BR  hull t
+    2300056: BR  radar
+    2300058: BR  radar1
+    2300060: BR  radar2
+    2300062: BR  radar3
+    2300064: BR  radar4
+    2300066: BR  spine
+    2300068: BR  spine1
+    2300070: BR  spine2
+    2300072: BR  spine3
+    2300074: BR  spine4
+    2300076: BR access
+    2300078: BR access1
+    2300080: BR access2
+    2300082: BR bridge
+    2300084: BR bridge1
+    2300086: BR bridge2
+    2300088: BR bridge3
+    2300090: BR bridge4
+    2300092: BR bridge5
+    2300094: BR bridge6
+    2300096: BR engin10
+    2300098: BR engin11
+    2300100: BR engin12
+    2300102: BR engin13
+    2300104: BR engin14
+    2300106: BR engin15
+    2300108: BR engin16
+    2300110: BR engin17
+    2300112: BR engine
+    2300114: BR engine1
+    2300116: BR engine2
+    2300118: BR engine3
+    2300120: BR engine4
+    2300122: BR engine5
+    2300124: BR engine6
+    2300126: BR engine7
+    2300128: BR engine8
+    2300130: BR engine9
+    2300132: BR escape
+    2300134: BR main bo
+    2300136: BR side h1
+    2300138: BR side h2
+    2300140: BR side h3
+    2300142: BR side h4
+    2300144: BR side ha
+    3300000: BR  engi10
+    3300002: BR  engin1
+    3300004: BR  engin2
+    3300006: BR  engin3
+    3300008: BR  engin4
+    3300010: BR  engin5
+    3300012: BR  engin6
+    3300014: BR  engin7
+    3300016: BR  engin8
+    3300018: BR  engin9
+    3300020: BR  engine
+    3300022: BR  exhaus
+    3300024: BR  gun b1
+    3300026: BR  gun b2
+    3300028: BR  gun ba
+    3300030: BR  gun bl
+    3300032: BR  gun de
+    3300034: BR  gun m1
+    3300036: BR  gun mo
+    3300038: BR  gun tu
+    3300040: BR  hull 1
+    3300042: BR  hull 2
+    3300044: BR  hull 3
+    3300046: BR  hull 4
+    3300048: BR  hull d
+    3300050: BR  hull f
+    3300052: BR  hull p
+    3300054: BR  hull t
+    3300056: BR  radar
+    3300058: BR  radar1
+    3300060: BR  radar2
+    3300062: BR  radar3
+    3300064: BR  radar4
+    3300066: BR  spine
+    3300068: BR  spine1
+    3300070: BR  spine2
+    3300072: BR  spine3
+    3300074: BR  spine4
+    3300076: BR access
+    3300078: BR access1
+    3300080: BR access2
+    3300082: BR bridge
+    3300084: BR bridge1
+    3300086: BR bridge2
+    3300088: BR bridge3
+    3300090: BR bridge4
+    3300092: BR bridge5
+    3300094: BR bridge6
+    3300096: BR engin10
+    3300098: BR engin11
+    3300100: BR engin12
+    3300102: BR engin13
+    3300104: BR engin14
+    3300106: BR engin15
+    3300108: BR engin16
+    3300110: BR engin17
+    3300112: BR engine
+    3300114: BR engine1
+    3300116: BR engine2
+    3300118: BR engine3
+    3300120: BR engine4
+    3300122: BR engine5
+    3300124: BR engine6
+    3300126: BR engine7
+    3300128: BR engine8
+    3300130: BR engine9
+    3300132: BR escape
+    3300134: BR main bo
+    3300136: BR side h1
+    3300138: BR side h2
+    3300140: BR side h3
+    3300142: BR side h4
+    3300144: BR side ha
+    4300000: BR  engine
+    4300002: BR  engin1
+    4300004: BR  engin2
+    4300006: BR  engin3
+    4300008: BR  engin4
+    4300010: BR  engin5
+    4300012: BR  engin6
+    4300014: BR  engin7
+    4300016: BR  engin8
+    4300018: BR  engin9
+    4300020: BR  engi10
+    4300022: BR  exhaus
+    4300024: BR  gun ba
+    4300026: BR  gun b1
+    4300028: BR  gun bl
+    4300030: BR  gun b2
+    4300032: BR  gun de
+    4300034: BR  gun mo
+    4300036: BR  gun m1
+    4300038: BR  gun tu
+    4300040: BR  hull d
+    4300042: BR  hull 1
+    4300044: BR  hull 2
+    4300046: BR  hull f
+    4300048: BR  hull 3
+    4300050: BR  hull p
+    4300052: BR  hull 4
+    4300054: BR  hull t
+    4300056: BR  radar
+    4300058: BR  radar1
+    4300060: BR  radar2
+    4300062: BR  radar3
+    4300064: BR  radar4
+    4300066: BR  spine
+    4300068: BR  spine1
+    4300070: BR  spine2
+    4300072: BR  spine3
+    4300074: BR  spine4
+    4300076: BR access
+    4300078: BR access1
+    4300080: BR access2
+    4300082: BR bridge
+    4300084: BR bridge1
+    4300086: BR bridge2
+    4300088: BR bridge3
+    4300090: BR bridge4
+    4300092: BR bridge5
+    4300094: BR bridge6
+    4300096: BR engine
+    4300098: BR engine1
+    4300100: BR engine2
+    4300102: BR engine3
+    4300104: BR engine4
+    4300106: BR engine5
+    4300108: BR engine6
+    4300110: BR engine7
+    4300112: BR engine8
+    4300114: BR engine9
+    4300116: BR engin10
+    4300118: BR engin11
+    4300120: BR engin12
+    4300122: BR engin13
+    4300124: BR engin14
+    4300126: BR engin15
+    4300128: BR engin16
+    4300130: BR engin17
+    4300132: BR escape
+    4300134: BR main bo
+    4300136: BR side ha
+    4300138: BR side h1
+    4300140: BR side h2
+    4300142: BR side h3
+    4300144: BR side h4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

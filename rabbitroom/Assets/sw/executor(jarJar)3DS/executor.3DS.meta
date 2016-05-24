@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 3bd196f82e460914fbd0c26ca1cc8d00
+timeCreated: 1456240710
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Center - S
+    100002: //RootNode
+    100004: Omni01
+    100006: SSD - Bay
+    100008: SSD - Eng0
+    100010: SSD - Engi
+    100012: SSD - Hang
+    100014: SSD - Li10
+    100016: SSD - Li11
+    100018: SSD - Lig0
+    100020: SSD - Lig1
+    100022: SSD - Lig2
+    100024: SSD - Lig3
+    100026: SSD - Lig4
+    100028: SSD - Lig5
+    100030: SSD - Lig6
+    100032: SSD - Lig7
+    100034: SSD - Lig8
+    100036: SSD - Lig9
+    100038: SSD - Ligh
+    100040: SSD - Rand
+    100042: SSD - Uppe
+    100044: SSD - Zwi0
+    100046: SSD - Zwis
+    400000: Center - S
+    400002: //RootNode
+    400004: Omni01
+    400006: SSD - Bay
+    400008: SSD - Eng0
+    400010: SSD - Engi
+    400012: SSD - Hang
+    400014: SSD - Li10
+    400016: SSD - Li11
+    400018: SSD - Lig0
+    400020: SSD - Lig1
+    400022: SSD - Lig2
+    400024: SSD - Lig3
+    400026: SSD - Lig4
+    400028: SSD - Lig5
+    400030: SSD - Lig6
+    400032: SSD - Lig7
+    400034: SSD - Lig8
+    400036: SSD - Lig9
+    400038: SSD - Ligh
+    400040: SSD - Rand
+    400042: SSD - Uppe
+    400044: SSD - Zwi0
+    400046: SSD - Zwis
+    2300000: SSD - Bay
+    2300002: SSD - Eng0
+    2300004: SSD - Engi
+    2300006: SSD - Hang
+    2300008: SSD - Rand
+    2300010: SSD - Uppe
+    2300012: SSD - Zwi0
+    2300014: SSD - Zwis
+    3300000: SSD - Bay
+    3300002: SSD - Eng0
+    3300004: SSD - Engi
+    3300006: SSD - Hang
+    3300008: SSD - Rand
+    3300010: SSD - Uppe
+    3300012: SSD - Zwi0
+    3300014: SSD - Zwis
+    4300000: SSD - Uppe
+    4300002: SSD - Rand
+    4300004: SSD - Bay
+    4300006: SSD - Engi
+    4300008: SSD - Eng0
+    4300010: SSD - Hang
+    4300012: SSD - Zwis
+    4300014: SSD - Zwi0
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

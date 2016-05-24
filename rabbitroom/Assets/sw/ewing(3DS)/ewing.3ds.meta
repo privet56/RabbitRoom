@@ -1,0 +1,1507 @@
+fileFormatVersion: 2
+guid: 8da34d4e6925aac4d85e1a3428a8d3b5
+timeCreated: 1456240729
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box01
+    100002: Box02
+    100004: Box03
+    100006: Box04
+    100008: Box05
+    100010: Box06
+    100012: Box07
+    100014: Box08
+    100016: Box09
+    100018: Box10
+    100020: Box100
+    100022: Box101
+    100024: Box102
+    100026: Box103
+    100028: Box104
+    100030: Box105
+    100032: Box106
+    100034: Box107
+    100036: Box108
+    100038: Box109
+    100040: Box11
+    100042: Box110
+    100044: Box111
+    100046: Box112
+    100048: Box113
+    100050: Box114
+    100052: Box115
+    100054: Box116
+    100056: Box117
+    100058: Box118
+    100060: Box119
+    100062: Box12
+    100064: Box120
+    100066: Box121
+    100068: Box122
+    100070: Box123
+    100072: Box124
+    100074: Box13
+    100076: Box14
+    100078: Box15
+    100080: Box16
+    100082: Box17
+    100084: Box18
+    100086: Box19
+    100088: Box20
+    100090: Box21
+    100092: Box22
+    100094: Box23
+    100096: Box24
+    100098: Box25
+    100100: Box26
+    100102: Box27
+    100104: Box28
+    100106: Box29
+    100108: Box30
+    100110: Box31
+    100112: Box32
+    100114: Box33
+    100116: Box34
+    100118: Box35
+    100120: Box36
+    100122: Box37
+    100124: Box38
+    100126: Box39
+    100128: Box40
+    100130: Box41
+    100132: Box42
+    100134: Box43
+    100136: Box44
+    100138: Box45
+    100140: Box46
+    100142: Box47
+    100144: Box48
+    100146: Box49
+    100148: Box50
+    100150: Box51
+    100152: Box52
+    100154: Box53
+    100156: Box54
+    100158: Box55
+    100160: Box56
+    100162: Box57
+    100164: Box58
+    100166: Box59
+    100168: Box60
+    100170: Box61
+    100172: Box62
+    100174: Box63
+    100176: Box64
+    100178: Box65
+    100180: Box66
+    100182: Box67
+    100184: Box68
+    100186: Box69
+    100188: Box70
+    100190: Box71
+    100192: Box72
+    100194: Box73
+    100196: Box74
+    100198: Box75
+    100200: Box76
+    100202: Box77
+    100204: Box78
+    100206: Box79
+    100208: Box80
+    100210: Box81
+    100212: Box82
+    100214: Box83
+    100216: Box84
+    100218: Box85
+    100220: Box86
+    100222: Box87
+    100224: Box88
+    100226: Box89
+    100228: Box90
+    100230: Box91
+    100232: Box92
+    100234: Box93
+    100236: Box94
+    100238: Box95
+    100240: Box96
+    100242: Box97
+    100244: Box98
+    100246: Box99
+    100248: Cone01
+    100250: Cone02
+    100252: Cylinder01
+    100254: Cylinder02
+    100256: Cylinder03
+    100258: Cylinder04
+    100260: Cylinder05
+    100262: Cylinder06
+    100264: Cylinder07
+    100266: Cylinder08
+    100268: Cylinder09
+    100270: Cylinder10
+    100272: Cylinder11
+    100274: Cylinder12
+    100276: Cylinder13
+    100278: Cylinder14
+    100280: Cylinder15
+    100282: Cylinder16
+    100284: Cylinder17
+    100286: Cylinder18
+    100288: Cylinder19
+    100290: Cylinder20
+    100292: Cylinder21
+    100294: Cylinder22
+    100296: Cylinder23
+    100298: Cylinder24
+    100300: Cylinder25
+    100302: Cylinder26
+    100304: Cylinder27
+    100306: Cylinder28
+    100308: Cylinder29
+    100310: Cylinder30
+    100312: Cylinder31
+    100314: Cylinder32
+    100316: Cylinder33
+    100318: Cylinder34
+    100320: Cylinder35
+    100322: Cylinder36
+    100324: Cylinder37
+    100326: Cylinder38
+    100328: Cylinder39
+    100330: Cylinder40
+    100332: Cylinder41
+    100334: Cylinder42
+    100336: E bckdirt
+    100338: E bluetop
+    100340: E brwnglow
+    100342: E cockpbck
+    100344: E cockpit0
+    100346: E cockpitl
+    100348: E eng b l
+    100350: E eng b l0
+    100352: E eng bl 0
+    100354: E eng bl l
+    100356: E eng f l
+    100358: E eng f l0
+    100360: E eng fp 0
+    100362: E eng fp l
+    100364: E engine 0
+    100366: E engine l
+    100368: E gun cent
+    100370: E gun l
+    100372: E gun l01
+    100374: E h usup
+    100376: E hulbot l
+    100378: E hulbot r
+    100380: E hull b l
+    100382: E hull b r
+    100384: E mbodyi l
+    100386: E mbodyi r
+    100388: E mhulbd l
+    100390: E mhulbd r
+    100392: E mhulbd1
+    100394: E mhulbd2
+    100396: E mhulbd3
+    100398: E mhullb l
+    100400: E mhullb r
+    100402: E mwng b 0
+    100404: E mwng b l
+    100406: E mwng t 0
+    100408: E mwng t l
+    100410: E nose
+    100412: E noseb
+    100414: E side b i
+    100416: E side b l
+    100418: E side b r
+    100420: E side f l
+    100422: E side f r
+    100424: E swng b 0
+    100426: E swng b l
+    100428: E swng i 0
+    100430: E swng i l
+    100432: E swng t 0
+    100434: E swng t l
+    100436: E swngi l
+    100438: E swngi l0
+    100440: E swngib 0
+    100442: E swngib l
+    100444: E top l
+    100446: E top r
+    100448: E vents l
+    100450: E vents r
+    100452: E ventsb l
+    100454: E ventsb r
+    100456: E win l
+    100458: E win r
+    100460: E wngdet 0
+    100462: E wngdet r
+    100464: E wngsup 0
+    100466: E wngsup l
+    100468: E wngys f0
+    100470: E wngys fl
+    100472: E wngys l
+    100474: E wngys l0
+    100476: Ewing
+    100478: //RootNode
+    100480: Line01
+    100482: Line02
+    100484: Line03
+    100486: Line04
+    100488: Line05
+    100490: Line06
+    100492: Line07
+    100494: Line08
+    100496: Line09
+    100498: Line10
+    100500: Line11
+    100502: Line12
+    100504: Line13
+    100506: Line14
+    100508: Line15
+    100510: Line16
+    100512: Line17
+    100514: Line18
+    100516: Line19
+    100518: Line20
+    100520: Line21
+    100522: Line22
+    100524: Line23
+    100526: Line24
+    100528: Line25
+    100530: Mesh01
+    100532: Mesh02
+    100534: Mesh03
+    100536: Omni01
+    100538: Omni03
+    100540: Omni04
+    100542: Omni05
+    100544: Omni06
+    100546: Omni07
+    100548: Seat
+    100550: Star01
+    100552: Star02
+    100554: Tube01
+    100556: Tube02
+    100558: Tube03
+    100560: Tube04
+    100562: Tube05
+    100564: Tube06
+    100566: Tube07
+    100568: Tube08
+    100570: Tube09
+    100572: Tube10
+    100574: Tube11
+    100576: Tube12
+    100578: Tube13
+    100580: Tube14
+    100582: Tube15
+    400000: Box01
+    400002: Box02
+    400004: Box03
+    400006: Box04
+    400008: Box05
+    400010: Box06
+    400012: Box07
+    400014: Box08
+    400016: Box09
+    400018: Box10
+    400020: Box100
+    400022: Box101
+    400024: Box102
+    400026: Box103
+    400028: Box104
+    400030: Box105
+    400032: Box106
+    400034: Box107
+    400036: Box108
+    400038: Box109
+    400040: Box11
+    400042: Box110
+    400044: Box111
+    400046: Box112
+    400048: Box113
+    400050: Box114
+    400052: Box115
+    400054: Box116
+    400056: Box117
+    400058: Box118
+    400060: Box119
+    400062: Box12
+    400064: Box120
+    400066: Box121
+    400068: Box122
+    400070: Box123
+    400072: Box124
+    400074: Box13
+    400076: Box14
+    400078: Box15
+    400080: Box16
+    400082: Box17
+    400084: Box18
+    400086: Box19
+    400088: Box20
+    400090: Box21
+    400092: Box22
+    400094: Box23
+    400096: Box24
+    400098: Box25
+    400100: Box26
+    400102: Box27
+    400104: Box28
+    400106: Box29
+    400108: Box30
+    400110: Box31
+    400112: Box32
+    400114: Box33
+    400116: Box34
+    400118: Box35
+    400120: Box36
+    400122: Box37
+    400124: Box38
+    400126: Box39
+    400128: Box40
+    400130: Box41
+    400132: Box42
+    400134: Box43
+    400136: Box44
+    400138: Box45
+    400140: Box46
+    400142: Box47
+    400144: Box48
+    400146: Box49
+    400148: Box50
+    400150: Box51
+    400152: Box52
+    400154: Box53
+    400156: Box54
+    400158: Box55
+    400160: Box56
+    400162: Box57
+    400164: Box58
+    400166: Box59
+    400168: Box60
+    400170: Box61
+    400172: Box62
+    400174: Box63
+    400176: Box64
+    400178: Box65
+    400180: Box66
+    400182: Box67
+    400184: Box68
+    400186: Box69
+    400188: Box70
+    400190: Box71
+    400192: Box72
+    400194: Box73
+    400196: Box74
+    400198: Box75
+    400200: Box76
+    400202: Box77
+    400204: Box78
+    400206: Box79
+    400208: Box80
+    400210: Box81
+    400212: Box82
+    400214: Box83
+    400216: Box84
+    400218: Box85
+    400220: Box86
+    400222: Box87
+    400224: Box88
+    400226: Box89
+    400228: Box90
+    400230: Box91
+    400232: Box92
+    400234: Box93
+    400236: Box94
+    400238: Box95
+    400240: Box96
+    400242: Box97
+    400244: Box98
+    400246: Box99
+    400248: Cone01
+    400250: Cone02
+    400252: Cylinder01
+    400254: Cylinder02
+    400256: Cylinder03
+    400258: Cylinder04
+    400260: Cylinder05
+    400262: Cylinder06
+    400264: Cylinder07
+    400266: Cylinder08
+    400268: Cylinder09
+    400270: Cylinder10
+    400272: Cylinder11
+    400274: Cylinder12
+    400276: Cylinder13
+    400278: Cylinder14
+    400280: Cylinder15
+    400282: Cylinder16
+    400284: Cylinder17
+    400286: Cylinder18
+    400288: Cylinder19
+    400290: Cylinder20
+    400292: Cylinder21
+    400294: Cylinder22
+    400296: Cylinder23
+    400298: Cylinder24
+    400300: Cylinder25
+    400302: Cylinder26
+    400304: Cylinder27
+    400306: Cylinder28
+    400308: Cylinder29
+    400310: Cylinder30
+    400312: Cylinder31
+    400314: Cylinder32
+    400316: Cylinder33
+    400318: Cylinder34
+    400320: Cylinder35
+    400322: Cylinder36
+    400324: Cylinder37
+    400326: Cylinder38
+    400328: Cylinder39
+    400330: Cylinder40
+    400332: Cylinder41
+    400334: Cylinder42
+    400336: E bckdirt
+    400338: E bluetop
+    400340: E brwnglow
+    400342: E cockpbck
+    400344: E cockpit0
+    400346: E cockpitl
+    400348: E eng b l
+    400350: E eng b l0
+    400352: E eng bl 0
+    400354: E eng bl l
+    400356: E eng f l
+    400358: E eng f l0
+    400360: E eng fp 0
+    400362: E eng fp l
+    400364: E engine 0
+    400366: E engine l
+    400368: E gun cent
+    400370: E gun l
+    400372: E gun l01
+    400374: E h usup
+    400376: E hulbot l
+    400378: E hulbot r
+    400380: E hull b l
+    400382: E hull b r
+    400384: E mbodyi l
+    400386: E mbodyi r
+    400388: E mhulbd l
+    400390: E mhulbd r
+    400392: E mhulbd1
+    400394: E mhulbd2
+    400396: E mhulbd3
+    400398: E mhullb l
+    400400: E mhullb r
+    400402: E mwng b 0
+    400404: E mwng b l
+    400406: E mwng t 0
+    400408: E mwng t l
+    400410: E nose
+    400412: E noseb
+    400414: E side b i
+    400416: E side b l
+    400418: E side b r
+    400420: E side f l
+    400422: E side f r
+    400424: E swng b 0
+    400426: E swng b l
+    400428: E swng i 0
+    400430: E swng i l
+    400432: E swng t 0
+    400434: E swng t l
+    400436: E swngi l
+    400438: E swngi l0
+    400440: E swngib 0
+    400442: E swngib l
+    400444: E top l
+    400446: E top r
+    400448: E vents l
+    400450: E vents r
+    400452: E ventsb l
+    400454: E ventsb r
+    400456: E win l
+    400458: E win r
+    400460: E wngdet 0
+    400462: E wngdet r
+    400464: E wngsup 0
+    400466: E wngsup l
+    400468: E wngys f0
+    400470: E wngys fl
+    400472: E wngys l
+    400474: E wngys l0
+    400476: Ewing
+    400478: //RootNode
+    400480: Line01
+    400482: Line02
+    400484: Line03
+    400486: Line04
+    400488: Line05
+    400490: Line06
+    400492: Line07
+    400494: Line08
+    400496: Line09
+    400498: Line10
+    400500: Line11
+    400502: Line12
+    400504: Line13
+    400506: Line14
+    400508: Line15
+    400510: Line16
+    400512: Line17
+    400514: Line18
+    400516: Line19
+    400518: Line20
+    400520: Line21
+    400522: Line22
+    400524: Line23
+    400526: Line24
+    400528: Line25
+    400530: Mesh01
+    400532: Mesh02
+    400534: Mesh03
+    400536: Omni01
+    400538: Omni03
+    400540: Omni04
+    400542: Omni05
+    400544: Omni06
+    400546: Omni07
+    400548: Seat
+    400550: Star01
+    400552: Star02
+    400554: Tube01
+    400556: Tube02
+    400558: Tube03
+    400560: Tube04
+    400562: Tube05
+    400564: Tube06
+    400566: Tube07
+    400568: Tube08
+    400570: Tube09
+    400572: Tube10
+    400574: Tube11
+    400576: Tube12
+    400578: Tube13
+    400580: Tube14
+    400582: Tube15
+    2300000: Box01
+    2300002: Box02
+    2300004: Box03
+    2300006: Box04
+    2300008: Box05
+    2300010: Box06
+    2300012: Box07
+    2300014: Box08
+    2300016: Box09
+    2300018: Box10
+    2300020: Box100
+    2300022: Box101
+    2300024: Box102
+    2300026: Box103
+    2300028: Box104
+    2300030: Box105
+    2300032: Box106
+    2300034: Box107
+    2300036: Box108
+    2300038: Box109
+    2300040: Box11
+    2300042: Box110
+    2300044: Box111
+    2300046: Box112
+    2300048: Box113
+    2300050: Box114
+    2300052: Box115
+    2300054: Box116
+    2300056: Box117
+    2300058: Box118
+    2300060: Box119
+    2300062: Box12
+    2300064: Box120
+    2300066: Box121
+    2300068: Box122
+    2300070: Box123
+    2300072: Box124
+    2300074: Box13
+    2300076: Box14
+    2300078: Box15
+    2300080: Box16
+    2300082: Box17
+    2300084: Box18
+    2300086: Box19
+    2300088: Box20
+    2300090: Box21
+    2300092: Box22
+    2300094: Box23
+    2300096: Box24
+    2300098: Box25
+    2300100: Box26
+    2300102: Box27
+    2300104: Box28
+    2300106: Box29
+    2300108: Box30
+    2300110: Box31
+    2300112: Box32
+    2300114: Box33
+    2300116: Box34
+    2300118: Box35
+    2300120: Box36
+    2300122: Box37
+    2300124: Box38
+    2300126: Box39
+    2300128: Box40
+    2300130: Box41
+    2300132: Box42
+    2300134: Box43
+    2300136: Box44
+    2300138: Box45
+    2300140: Box46
+    2300142: Box47
+    2300144: Box48
+    2300146: Box49
+    2300148: Box50
+    2300150: Box51
+    2300152: Box52
+    2300154: Box53
+    2300156: Box54
+    2300158: Box55
+    2300160: Box56
+    2300162: Box57
+    2300164: Box58
+    2300166: Box59
+    2300168: Box60
+    2300170: Box61
+    2300172: Box62
+    2300174: Box63
+    2300176: Box64
+    2300178: Box65
+    2300180: Box66
+    2300182: Box67
+    2300184: Box68
+    2300186: Box69
+    2300188: Box70
+    2300190: Box71
+    2300192: Box72
+    2300194: Box73
+    2300196: Box74
+    2300198: Box75
+    2300200: Box76
+    2300202: Box77
+    2300204: Box78
+    2300206: Box79
+    2300208: Box80
+    2300210: Box81
+    2300212: Box82
+    2300214: Box83
+    2300216: Box84
+    2300218: Box85
+    2300220: Box86
+    2300222: Box87
+    2300224: Box88
+    2300226: Box89
+    2300228: Box90
+    2300230: Box91
+    2300232: Box92
+    2300234: Box93
+    2300236: Box94
+    2300238: Box95
+    2300240: Box96
+    2300242: Box97
+    2300244: Box98
+    2300246: Box99
+    2300248: Cone01
+    2300250: Cone02
+    2300252: Cylinder01
+    2300254: Cylinder02
+    2300256: Cylinder03
+    2300258: Cylinder04
+    2300260: Cylinder05
+    2300262: Cylinder06
+    2300264: Cylinder07
+    2300266: Cylinder08
+    2300268: Cylinder09
+    2300270: Cylinder10
+    2300272: Cylinder11
+    2300274: Cylinder12
+    2300276: Cylinder13
+    2300278: Cylinder14
+    2300280: Cylinder15
+    2300282: Cylinder16
+    2300284: Cylinder17
+    2300286: Cylinder18
+    2300288: Cylinder19
+    2300290: Cylinder20
+    2300292: Cylinder21
+    2300294: Cylinder22
+    2300296: Cylinder23
+    2300298: Cylinder24
+    2300300: Cylinder25
+    2300302: Cylinder26
+    2300304: Cylinder27
+    2300306: Cylinder28
+    2300308: Cylinder29
+    2300310: Cylinder30
+    2300312: Cylinder31
+    2300314: Cylinder32
+    2300316: Cylinder33
+    2300318: Cylinder34
+    2300320: Cylinder35
+    2300322: Cylinder36
+    2300324: Cylinder37
+    2300326: Cylinder38
+    2300328: Cylinder39
+    2300330: Cylinder40
+    2300332: Cylinder41
+    2300334: Cylinder42
+    2300336: E bckdirt
+    2300338: E bluetop
+    2300340: E brwnglow
+    2300342: E cockpbck
+    2300344: E cockpit0
+    2300346: E cockpitl
+    2300348: E eng b l
+    2300350: E eng b l0
+    2300352: E eng bl 0
+    2300354: E eng bl l
+    2300356: E eng f l
+    2300358: E eng f l0
+    2300360: E eng fp 0
+    2300362: E eng fp l
+    2300364: E engine 0
+    2300366: E engine l
+    2300368: E gun cent
+    2300370: E gun l
+    2300372: E gun l01
+    2300374: E h usup
+    2300376: E hulbot l
+    2300378: E hulbot r
+    2300380: E hull b l
+    2300382: E hull b r
+    2300384: E mbodyi l
+    2300386: E mbodyi r
+    2300388: E mhulbd l
+    2300390: E mhulbd r
+    2300392: E mhulbd1
+    2300394: E mhulbd2
+    2300396: E mhulbd3
+    2300398: E mhullb l
+    2300400: E mhullb r
+    2300402: E mwng b 0
+    2300404: E mwng b l
+    2300406: E mwng t 0
+    2300408: E mwng t l
+    2300410: E nose
+    2300412: E noseb
+    2300414: E side b i
+    2300416: E side b l
+    2300418: E side b r
+    2300420: E side f l
+    2300422: E side f r
+    2300424: E swng b 0
+    2300426: E swng b l
+    2300428: E swng i 0
+    2300430: E swng i l
+    2300432: E swng t 0
+    2300434: E swng t l
+    2300436: E swngi l
+    2300438: E swngi l0
+    2300440: E swngib 0
+    2300442: E swngib l
+    2300444: E top l
+    2300446: E top r
+    2300448: E vents l
+    2300450: E vents r
+    2300452: E ventsb l
+    2300454: E ventsb r
+    2300456: E win l
+    2300458: E win r
+    2300460: E wngdet 0
+    2300462: E wngdet r
+    2300464: E wngsup 0
+    2300466: E wngsup l
+    2300468: E wngys f0
+    2300470: E wngys fl
+    2300472: E wngys l
+    2300474: E wngys l0
+    2300476: Line01
+    2300478: Line02
+    2300480: Line03
+    2300482: Line04
+    2300484: Line05
+    2300486: Line06
+    2300488: Line07
+    2300490: Line08
+    2300492: Line09
+    2300494: Line10
+    2300496: Line11
+    2300498: Line12
+    2300500: Line13
+    2300502: Line14
+    2300504: Line15
+    2300506: Line16
+    2300508: Line17
+    2300510: Line18
+    2300512: Line19
+    2300514: Line20
+    2300516: Line21
+    2300518: Line22
+    2300520: Line23
+    2300522: Line24
+    2300524: Line25
+    2300526: Mesh01
+    2300528: Mesh02
+    2300530: Mesh03
+    2300532: Seat
+    2300534: Star01
+    2300536: Star02
+    2300538: Tube01
+    2300540: Tube02
+    2300542: Tube03
+    2300544: Tube04
+    2300546: Tube05
+    2300548: Tube06
+    2300550: Tube07
+    2300552: Tube08
+    2300554: Tube09
+    2300556: Tube10
+    2300558: Tube11
+    2300560: Tube12
+    2300562: Tube13
+    2300564: Tube14
+    2300566: Tube15
+    3300000: Box01
+    3300002: Box02
+    3300004: Box03
+    3300006: Box04
+    3300008: Box05
+    3300010: Box06
+    3300012: Box07
+    3300014: Box08
+    3300016: Box09
+    3300018: Box10
+    3300020: Box100
+    3300022: Box101
+    3300024: Box102
+    3300026: Box103
+    3300028: Box104
+    3300030: Box105
+    3300032: Box106
+    3300034: Box107
+    3300036: Box108
+    3300038: Box109
+    3300040: Box11
+    3300042: Box110
+    3300044: Box111
+    3300046: Box112
+    3300048: Box113
+    3300050: Box114
+    3300052: Box115
+    3300054: Box116
+    3300056: Box117
+    3300058: Box118
+    3300060: Box119
+    3300062: Box12
+    3300064: Box120
+    3300066: Box121
+    3300068: Box122
+    3300070: Box123
+    3300072: Box124
+    3300074: Box13
+    3300076: Box14
+    3300078: Box15
+    3300080: Box16
+    3300082: Box17
+    3300084: Box18
+    3300086: Box19
+    3300088: Box20
+    3300090: Box21
+    3300092: Box22
+    3300094: Box23
+    3300096: Box24
+    3300098: Box25
+    3300100: Box26
+    3300102: Box27
+    3300104: Box28
+    3300106: Box29
+    3300108: Box30
+    3300110: Box31
+    3300112: Box32
+    3300114: Box33
+    3300116: Box34
+    3300118: Box35
+    3300120: Box36
+    3300122: Box37
+    3300124: Box38
+    3300126: Box39
+    3300128: Box40
+    3300130: Box41
+    3300132: Box42
+    3300134: Box43
+    3300136: Box44
+    3300138: Box45
+    3300140: Box46
+    3300142: Box47
+    3300144: Box48
+    3300146: Box49
+    3300148: Box50
+    3300150: Box51
+    3300152: Box52
+    3300154: Box53
+    3300156: Box54
+    3300158: Box55
+    3300160: Box56
+    3300162: Box57
+    3300164: Box58
+    3300166: Box59
+    3300168: Box60
+    3300170: Box61
+    3300172: Box62
+    3300174: Box63
+    3300176: Box64
+    3300178: Box65
+    3300180: Box66
+    3300182: Box67
+    3300184: Box68
+    3300186: Box69
+    3300188: Box70
+    3300190: Box71
+    3300192: Box72
+    3300194: Box73
+    3300196: Box74
+    3300198: Box75
+    3300200: Box76
+    3300202: Box77
+    3300204: Box78
+    3300206: Box79
+    3300208: Box80
+    3300210: Box81
+    3300212: Box82
+    3300214: Box83
+    3300216: Box84
+    3300218: Box85
+    3300220: Box86
+    3300222: Box87
+    3300224: Box88
+    3300226: Box89
+    3300228: Box90
+    3300230: Box91
+    3300232: Box92
+    3300234: Box93
+    3300236: Box94
+    3300238: Box95
+    3300240: Box96
+    3300242: Box97
+    3300244: Box98
+    3300246: Box99
+    3300248: Cone01
+    3300250: Cone02
+    3300252: Cylinder01
+    3300254: Cylinder02
+    3300256: Cylinder03
+    3300258: Cylinder04
+    3300260: Cylinder05
+    3300262: Cylinder06
+    3300264: Cylinder07
+    3300266: Cylinder08
+    3300268: Cylinder09
+    3300270: Cylinder10
+    3300272: Cylinder11
+    3300274: Cylinder12
+    3300276: Cylinder13
+    3300278: Cylinder14
+    3300280: Cylinder15
+    3300282: Cylinder16
+    3300284: Cylinder17
+    3300286: Cylinder18
+    3300288: Cylinder19
+    3300290: Cylinder20
+    3300292: Cylinder21
+    3300294: Cylinder22
+    3300296: Cylinder23
+    3300298: Cylinder24
+    3300300: Cylinder25
+    3300302: Cylinder26
+    3300304: Cylinder27
+    3300306: Cylinder28
+    3300308: Cylinder29
+    3300310: Cylinder30
+    3300312: Cylinder31
+    3300314: Cylinder32
+    3300316: Cylinder33
+    3300318: Cylinder34
+    3300320: Cylinder35
+    3300322: Cylinder36
+    3300324: Cylinder37
+    3300326: Cylinder38
+    3300328: Cylinder39
+    3300330: Cylinder40
+    3300332: Cylinder41
+    3300334: Cylinder42
+    3300336: E bckdirt
+    3300338: E bluetop
+    3300340: E brwnglow
+    3300342: E cockpbck
+    3300344: E cockpit0
+    3300346: E cockpitl
+    3300348: E eng b l
+    3300350: E eng b l0
+    3300352: E eng bl 0
+    3300354: E eng bl l
+    3300356: E eng f l
+    3300358: E eng f l0
+    3300360: E eng fp 0
+    3300362: E eng fp l
+    3300364: E engine 0
+    3300366: E engine l
+    3300368: E gun cent
+    3300370: E gun l
+    3300372: E gun l01
+    3300374: E h usup
+    3300376: E hulbot l
+    3300378: E hulbot r
+    3300380: E hull b l
+    3300382: E hull b r
+    3300384: E mbodyi l
+    3300386: E mbodyi r
+    3300388: E mhulbd l
+    3300390: E mhulbd r
+    3300392: E mhulbd1
+    3300394: E mhulbd2
+    3300396: E mhulbd3
+    3300398: E mhullb l
+    3300400: E mhullb r
+    3300402: E mwng b 0
+    3300404: E mwng b l
+    3300406: E mwng t 0
+    3300408: E mwng t l
+    3300410: E nose
+    3300412: E noseb
+    3300414: E side b i
+    3300416: E side b l
+    3300418: E side b r
+    3300420: E side f l
+    3300422: E side f r
+    3300424: E swng b 0
+    3300426: E swng b l
+    3300428: E swng i 0
+    3300430: E swng i l
+    3300432: E swng t 0
+    3300434: E swng t l
+    3300436: E swngi l
+    3300438: E swngi l0
+    3300440: E swngib 0
+    3300442: E swngib l
+    3300444: E top l
+    3300446: E top r
+    3300448: E vents l
+    3300450: E vents r
+    3300452: E ventsb l
+    3300454: E ventsb r
+    3300456: E win l
+    3300458: E win r
+    3300460: E wngdet 0
+    3300462: E wngdet r
+    3300464: E wngsup 0
+    3300466: E wngsup l
+    3300468: E wngys f0
+    3300470: E wngys fl
+    3300472: E wngys l
+    3300474: E wngys l0
+    3300476: Line01
+    3300478: Line02
+    3300480: Line03
+    3300482: Line04
+    3300484: Line05
+    3300486: Line06
+    3300488: Line07
+    3300490: Line08
+    3300492: Line09
+    3300494: Line10
+    3300496: Line11
+    3300498: Line12
+    3300500: Line13
+    3300502: Line14
+    3300504: Line15
+    3300506: Line16
+    3300508: Line17
+    3300510: Line18
+    3300512: Line19
+    3300514: Line20
+    3300516: Line21
+    3300518: Line22
+    3300520: Line23
+    3300522: Line24
+    3300524: Line25
+    3300526: Mesh01
+    3300528: Mesh02
+    3300530: Mesh03
+    3300532: Seat
+    3300534: Star01
+    3300536: Star02
+    3300538: Tube01
+    3300540: Tube02
+    3300542: Tube03
+    3300544: Tube04
+    3300546: Tube05
+    3300548: Tube06
+    3300550: Tube07
+    3300552: Tube08
+    3300554: Tube09
+    3300556: Tube10
+    3300558: Tube11
+    3300560: Tube12
+    3300562: Tube13
+    3300564: Tube14
+    3300566: Tube15
+    4300000: Box51
+    4300002: E side f r
+    4300004: E hull b r
+    4300006: E top r
+    4300008: E hulbot r
+    4300010: E mbodyi l
+    4300012: E side f l
+    4300014: E hull b l
+    4300016: E top l
+    4300018: E hulbot l
+    4300020: E engine l
+    4300022: E swng b l
+    4300024: E mwng t l
+    4300026: E swng t l
+    4300028: Box58
+    4300030: E mwng b l
+    4300032: Box59
+    4300034: Box60
+    4300036: E cockpitl
+    4300038: Mesh02
+    4300040: E gun l
+    4300042: E wngsup l
+    4300044: E swngi l
+    4300046: E wngys l
+    4300048: E wngys fl
+    4300050: E swngib l
+    4300052: E swng i l
+    4300054: E eng b l
+    4300056: E eng f l
+    4300058: E eng bl l
+    4300060: E eng fp l
+    4300062: E side b i
+    4300064: E mhulbd l
+    4300066: E mhulbd r
+    4300068: E mhulbd1
+    4300070: E mhulbd2
+    4300072: E mhulbd3
+    4300074: E h usup
+    4300076: E bckdirt
+    4300078: E brwnglow
+    4300080: E cockpbck
+    4300082: E bluetop
+    4300084: E vents l
+    4300086: E ventsb l
+    4300088: E vents r
+    4300090: E ventsb r
+    4300092: E gun cent
+    4300094: E cockpit0
+    4300096: E win l
+    4300098: E win r
+    4300100: E nose
+    4300102: E noseb
+    4300104: Cylinder01
+    4300106: Cylinder02
+    4300108: Tube01
+    4300110: Cylinder03
+    4300112: Box01
+    4300114: Box02
+    4300116: Cylinder04
+    4300118: Cylinder05
+    4300120: Cylinder06
+    4300122: Cylinder07
+    4300124: Tube02
+    4300126: Box03
+    4300128: Box04
+    4300130: Cylinder08
+    4300132: Cylinder09
+    4300134: Cylinder10
+    4300136: Tube03
+    4300138: Box05
+    4300140: Box06
+    4300142: Cylinder11
+    4300144: Cylinder12
+    4300146: Cylinder13
+    4300148: Tube04
+    4300150: Box07
+    4300152: Box08
+    4300154: Cylinder14
+    4300156: Cylinder15
+    4300158: Cylinder16
+    4300160: Tube05
+    4300162: Box09
+    4300164: Box10
+    4300166: Tube06
+    4300168: Tube07
+    4300170: Box11
+    4300172: Box12
+    4300174: Box13
+    4300176: Box14
+    4300178: Box15
+    4300180: Box16
+    4300182: Box17
+    4300184: Box18
+    4300186: Box19
+    4300188: Box20
+    4300190: Box21
+    4300192: Box22
+    4300194: Box23
+    4300196: Box24
+    4300198: Box25
+    4300200: Box26
+    4300202: Box27
+    4300204: Box28
+    4300206: Box29
+    4300208: Box30
+    4300210: Box31
+    4300212: Box32
+    4300214: Box33
+    4300216: Box34
+    4300218: Box35
+    4300220: Box36
+    4300222: Box37
+    4300224: Box38
+    4300226: Box39
+    4300228: Box40
+    4300230: Box41
+    4300232: Box42
+    4300234: Box43
+    4300236: Box44
+    4300238: Box45
+    4300240: Box46
+    4300242: Box47
+    4300244: Box48
+    4300246: Box49
+    4300248: Box50
+    4300250: Line01
+    4300252: Line02
+    4300254: Line03
+    4300256: Line04
+    4300258: Line05
+    4300260: Line06
+    4300262: Line07
+    4300264: Line08
+    4300266: Line09
+    4300268: Line10
+    4300270: Line11
+    4300272: Line12
+    4300274: E mbodyi r
+    4300276: Box52
+    4300278: Box53
+    4300280: Box54
+    4300282: Box55
+    4300284: Box56
+    4300286: Box57
+    4300288: Box88
+    4300290: Box87
+    4300292: Seat
+    4300294: Box61
+    4300296: Box62
+    4300298: Cylinder17
+    4300300: Cylinder18
+    4300302: Cylinder19
+    4300304: Cylinder20
+    4300306: Mesh01
+    4300308: Box63
+    4300310: Box64
+    4300312: Cylinder21
+    4300314: Cylinder22
+    4300316: Cylinder23
+    4300318: Cylinder24
+    4300320: E gun l01
+    4300322: Box65
+    4300324: E swngi l0
+    4300326: Box66
+    4300328: Box67
+    4300330: E swngib 0
+    4300332: Box68
+    4300334: Box69
+    4300336: Box70
+    4300338: Box71
+    4300340: E eng fp 0
+    4300342: Cylinder25
+    4300344: Cylinder26
+    4300346: Tube08
+    4300348: Cylinder27
+    4300350: Box72
+    4300352: Box73
+    4300354: Cylinder28
+    4300356: Cylinder29
+    4300358: Cylinder30
+    4300360: Cylinder31
+    4300362: Tube09
+    4300364: Box74
+    4300366: Box75
+    4300368: Cylinder32
+    4300370: Cylinder33
+    4300372: Cylinder34
+    4300374: Tube10
+    4300376: Box76
+    4300378: Box77
+    4300380: Cylinder35
+    4300382: Cylinder36
+    4300384: Cylinder37
+    4300386: Tube11
+    4300388: Box78
+    4300390: Box79
+    4300392: Cylinder38
+    4300394: Cylinder39
+    4300396: Cylinder40
+    4300398: Tube12
+    4300400: Box80
+    4300402: Box81
+    4300404: Box82
+    4300406: Box83
+    4300408: Box84
+    4300410: Box85
+    4300412: Box86
+    4300414: E engine 0
+    4300416: E swng b 0
+    4300418: Box89
+    4300420: Box90
+    4300422: Box91
+    4300424: Box92
+    4300426: Box93
+    4300428: Box94
+    4300430: Box95
+    4300432: Box96
+    4300434: Box97
+    4300436: Box98
+    4300438: Box99
+    4300440: Box100
+    4300442: Box101
+    4300444: Box102
+    4300446: Box103
+    4300448: Box104
+    4300450: Box105
+    4300452: Box106
+    4300454: Box107
+    4300456: Box108
+    4300458: Box109
+    4300460: Box110
+    4300462: Box111
+    4300464: Line13
+    4300466: Line14
+    4300468: Line15
+    4300470: Box112
+    4300472: Line16
+    4300474: Box113
+    4300476: Box114
+    4300478: Box115
+    4300480: Box116
+    4300482: Box117
+    4300484: Box118
+    4300486: Line17
+    4300488: Line18
+    4300490: Line19
+    4300492: Line20
+    4300494: Line21
+    4300496: Line22
+    4300498: Line23
+    4300500: Line24
+    4300502: E eng bl 0
+    4300504: Box119
+    4300506: Tube13
+    4300508: Box120
+    4300510: Box121
+    4300512: Box122
+    4300514: Box123
+    4300516: Tube14
+    4300518: Box124
+    4300520: E swng i 0
+    4300522: E eng f l0
+    4300524: E eng b l0
+    4300526: E wngys f0
+    4300528: E wngys l0
+    4300530: E mwng b 0
+    4300532: E wngsup 0
+    4300534: E swng t 0
+    4300536: E mwng t 0
+    4300538: E wngdet r
+    4300540: E side b l
+    4300542: E wngdet 0
+    4300544: E mhullb r
+    4300546: E mhullb l
+    4300548: E side b r
+    4300550: Mesh03
+    4300552: Line25
+    4300554: Tube15
+    4300556: Cylinder42
+    4300558: Cone02
+    4300560: Star02
+    4300562: Star01
+    4300564: Cylinder41
+    4300566: Cone01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
